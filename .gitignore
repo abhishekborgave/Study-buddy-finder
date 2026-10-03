@@ -1,0 +1,12 @@
+# Frontend build and installed packages
+frontend/node_modules/
+frontend/.next/
+
+# Local database and Python cache
+backend/study_buddy.db
+backend/__pycache__/
+*.pyc
+
+# Local configuration
+.env
+.env.local
